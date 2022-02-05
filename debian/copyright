@@ -1,0 +1,16 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: azure-storage-blob-go
+Upstream-Contact: TODO
+Source: https://github.com/Azure/azure-storage-blob-go
+
+Files: *
+Copyright: 2017 Microsoft Azure
+License: Expat
+
+Files: debian/*
+Copyright: 2022 TODO <admin@lepton.exnihilo>
+License: Expat
+Comment: Debian packaging is licensed under the same terms as upstream
+
+License: Expat
+ TODO
