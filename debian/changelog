@@ -1,8 +1,9 @@
-golang-github-azure-azure-storage-blob-go (0.13.0-4) UNRELEASED; urgency=medium
+golang-github-azure-azure-storage-blob-go (0.13.0-5) UNRELEASED; urgency=medium
 
   * Initial release (Closes: TODO)
   * bump version 0.13.0-2
   * bump version 0.13.0-3
   * bump version 0.13.0-4
+  * bump version 0.13.0-5
 
- -- André Roth <admin@lepton.exnihilo>  Sat, 05 Feb 2022 23:36:50 +0000
+ -- André Roth <admin@lepton.exnihilo>  Sun, 06 Feb 2022 00:02:11 +0000
